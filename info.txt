@@ -1,0 +1,9 @@
+total 200 -rw-r--r--@ 1 alisamoskaleva staff 5836 Jun 15 23:28 2014-06-30inflammation-01.csv -rw-r--r--@ 1 alisamoskaleva staff 
+5785 Jun 15 23:28 2014-06-30inflammation-02.csv -rw-r--r--@ 1 alisamoskaleva staff 5814 Jun 15 23:28 
+2014-06-30inflammation-03.csv -rw-r--r--@ 1 alisamoskaleva staff 5838 Jun 15 23:28 2014-06-30inflammation-04.csv -rw-r--r--@ 1 
+alisamoskaleva staff 5816 Jun 15 23:28 2014-06-30inflammation-05.csv -rw-r--r--@ 1 alisamoskaleva staff 5801 Jun 15 23:28 
+2014-06-30inflammation-06.csv -rw-r--r--@ 1 alisamoskaleva staff 5813 Jun 15 23:28 2014-06-30inflammation-07.csv -rw-r--r--@ 1 
+alisamoskaleva staff 5823 Jun 15 23:28 2014-06-30inflammation-08.csv -rw-r--r--@ 1 alisamoskaleva staff 5798 Jun 15 23:27 
+2014-06-30inflammation-09.csv -rw-r--r--@ 1 alisamoskaleva staff 5813 Jun 15 23:27 2014-06-30inflammation-10.csv -rw-r--r--@ 1 
+alisamoskaleva staff 5834 Jun 15 23:27 2014-06-30inflammation-11.csv -rw-r--r--@ 1 alisamoskaleva staff 5811 Jun 15 23:27 
+2014-06-30inflammation-12.csv -rw-r--r-- 1 alisamoskaleva staff 63 Jun 30 16:08 myscript.sh
