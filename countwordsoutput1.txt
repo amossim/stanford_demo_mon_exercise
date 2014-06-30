@@ -1,0 +1,12 @@
+      61 2014-06-30inflammation-01.csv
+      61 2014-06-30inflammation-02.csv
+      61 2014-06-30inflammation-03.csv
+      61 2014-06-30inflammation-04.csv
+      61 2014-06-30inflammation-05.csv
+      61 2014-06-30inflammation-06.csv
+      61 2014-06-30inflammation-07.csv
+      61 2014-06-30inflammation-08.csv
+      61 2014-06-30inflammation-09.csv
+      61 2014-06-30inflammation-10.csv
+      61 2014-06-30inflammation-11.csv
+      61 2014-06-30inflammation-12.csv
